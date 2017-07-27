@@ -1,0 +1,22 @@
+{
+  "name": "google-actions-unit-converter",
+  "version": "1.0.0",
+  "description": "convert units by saying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zolikobol/google-actions-unit-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zolikobol/google-actions-unit-converter/issues"
+  },
+  "homepage": "https://github.com/zolikobol/google-actions-unit-converter#readme",
+  "dependencies": {
+    "convert-units": "^2.3.1"
+  }
+}
